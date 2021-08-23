@@ -1,8 +1,8 @@
-# Eu sou o Pedro Goulart
+## Eu sou o Pedro Goulart
 <div>
      <a href="https://github.com/pedrohegoulart"></a>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohegoulart&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="max-width: 50% !important;"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohegoulart&layout=compact&langs_count=7&theme=dark" style="max-width: 50% !important;"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohegoulart&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+     <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohegoulart&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  ## Minhas Skills
@@ -33,8 +33,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<style>
-img {
-  max-width: 100%;
-}
-</style>
+
+## Contato
+
+<div> 
+    <a href = "mailto:pedrohegoulart@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/perfil-pedro-goulart/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.youtube.com/channel/UC28DRbkvDM40W7M7xHrbgjA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div>
