@@ -16,6 +16,12 @@
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
 
+ <!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-php-plain colored"></i>
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
