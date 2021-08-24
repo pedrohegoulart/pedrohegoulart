@@ -1,8 +1,8 @@
 ## Eu sou o Pedro Goulart
 <div>
      <a href="https://github.com/pedrohegoulart"></a>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohegoulart&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="width: 50%;">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohegoulart&layout=compact&langs_count=7&theme=dark" style="width: 50% !important;">
+     <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=pedrohegoulart&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+     <img height="180em" width="450px" !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohegoulart&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  ## Minhas Skills
