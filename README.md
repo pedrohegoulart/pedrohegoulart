@@ -23,21 +23,13 @@
 <!-- in your body -->
 <i class="devicon-php-plain colored"></i>
  
-Poesia do Programador
+## Poesia do Programador
                                     
-Não é falta de café,
-Nem tequila,
-É meu código,
-Que não compila.
+<h3>Não é falta de café,</h3><br/>
+<h3>Nem tequila,</h3><br/>
+<h3>É meu código,</h3><br/>
+<h3>Que não compila.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ## Contato
 
