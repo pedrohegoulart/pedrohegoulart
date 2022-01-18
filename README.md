@@ -25,10 +25,10 @@
  
 ## Poesia do Programador
                                     
-<h3>Não é falta de café,</h3><br/>
-<h3>Nem tequila,</h3><br/>
-<h3>É meu código,</h3><br/>
-<h3>Que não compila.</h3>
+<h4>Não é falta de café,</h4>
+<h4>Nem tequila,</h4>
+<h4>É meu código,</h4>
+<h4>Que não compila.</h4>
 
 
 ## Contato
