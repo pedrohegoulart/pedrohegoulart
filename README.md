@@ -1,4 +1,4 @@
-## <Hello World>... Eu sou o Pedro Goulart
+## Hello World... Eu sou o Pedro Goulart
 <div>
      <a href="https://github.com/pedrohegoulart"></a>
      <img height="180em" width="420px" src="https://github-readme-stats.vercel.app/api?username=pedrohegoulart&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -23,7 +23,12 @@
 <!-- in your body -->
 <i class="devicon-php-plain colored"></i>
  
-Here are some ideas to get you started:
+Poesia do Programador
+                                    
+Não é falta de café,
+Nem tequila,
+É meu código,
+Que não compila.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
