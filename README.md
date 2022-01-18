@@ -16,6 +16,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
 </div>
+<br/>                                                                                                                                                    
+<p> - 💻 Tudo se resume a PERSISTÊNCIA e DEDICAÇÃO</p>                                                                                                                                                   
 
  <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
@@ -25,10 +27,15 @@
  
 ## Poesia do Programador
                                     
-<h4>Não é falta de café,</h4>
-<h4>Nem tequila,</h4>
-<h4>É meu código,</h4>
-<h4>Que não compila.</h4>
+<p>E mais uma vez meu código não compila<br/>
+Começo a perder a inspiração<br/>
+Será que está nessa ou em outra linha?<br/>
+Será que resolvo esse erro se eu reler a documentação?<br/>
+<br/>
+Olho linha a linha, procurando de forma constante<br/>
+E cansado de tanto procurar<br/>
+Percebo num instante<br/>
+O erro no meu código era apenas uma vírgula que esqueci de colocar</p>
 
 
 ## Contato
